@@ -1,11 +1,0 @@
---2022-08-12 00:12:41--  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F7284734.jpg
-Resolving imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)... 13.32.123.22, 13.32.123.107, 13.32.123.14, ...
-Connecting to imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)|13.32.123.22|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 6189654 (5,9M) [image/jpeg]
-Saving to: ‘lasagna.jpg’
-
-lasagna.jpg           0%[                    ]       0  --.-KB/s               lasagna.jpg           9%[>                   ] 551,13K  2,65MB/s               lasagna.jpg          22%[===>                ]   1,36M  3,36MB/s               lasagna.jpg          37%[======>             ]   2,23M  3,69MB/s               lasagna.jpg          51%[=========>          ]   3,03M  3,75MB/s               lasagna.jpg          67%[============>       ]   3,97M  3,91MB/s               lasagna.jpg          84%[===============>    ]   5,01M  4,11MB/s               lasagna.jpg          98%[==================> ]   5,84M  4,11MB/s               lasagna.jpg         100%[===================>]   5,90M  4,10MB/s    in 1,4s    
-
-2022-08-12 00:12:43 (4,10 MB/s) - ‘lasagna.jpg’ saved [6189654/6189654]
-
